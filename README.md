@@ -1,2 +1,2 @@
 # mouseduino
-Included in this repository are the STL, code, and other relevant supplements to build the rotarod device.
+Included in this repository are the STL, code, and other relevant supplements to build the rotarod device. See paper for additional details.
